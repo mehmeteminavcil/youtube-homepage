@@ -6,10 +6,10 @@ export const subscriptions = [
       "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Caleb Curry",
-    id: "CalebCurry",
+    channelName: "Crunchyroll",
+    id: "Crunchyroll",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/f5tZFBCVg3AzgtXQY3Y-1YxgH7TZPgKfAn6E7TgeAkiuxZqkRQeZsCKlr7iGM5BI48VE_Vz3Ww=s68-c-k-c0x00ffffff-no-rj",
   },
   {
     channelName: "Web Dev Simplified",
@@ -24,10 +24,10 @@ export const subscriptions = [
       "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Sonny Sangha",
-    id: "SonnySangha",
+    channelName: "Mr Blyat",
+    id: "MrBlyat",
     imgUrl:
-      "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/fxGKYucJAVme-Yz4fsdCroCFCrANWqw0ql4GYuvx8Uq4l_euNJHgE-w9MTkLQA805vWCi-kE0g=s176-c-k-c0x00ffffff-no-rj-mo",
   },
   {
     channelName: "Traversy Media",
